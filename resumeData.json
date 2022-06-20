@@ -1,0 +1,117 @@
+{
+  "main": {
+    "name": "Tina Fang",
+    "occupation": "Information Systems @ UNSW",
+    "description": "Interested in front-end development, business analysis, and art",
+    "image": "profilepic.jpeg",
+    "bio": "Hi there! I am Tina! During my study at my previous university, I joined the Google DSC and it sparked my interests in front-end development. Since then I have been self-learning Figma, CSS, HTML, Javascript, and React, and I will take related university courses in the following terms as an Information Systems student. I have also learnt object-oriented programming in C++, Java, and database management. Besides my academics, while working at ShopBack, I often needed to communicate suggestions for improvement in UX and more efficient testing workflow among my supervisors, managers, and colleagues. These experiences have helped me develop both my UI/UX and object-oriented programming skills.",
+    "contactmessage": "Get in touch with me!",
+    "email": "tina4943@gmail.com",
+    "address": {
+      "suburb": "Kensington",
+      "city": "Sydney",
+      "state": "New South Wales",
+      "country": "Australia",
+      "zip": "2033"
+    },
+    "website": "https://www.papareact.com/course",
+    "resumedownload": "http://papareact.com",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/ichenfang/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/literallytina",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "University of New South Wales",
+        "degree": "Bachelor of Information Systems",
+        "graduated": "Aug 2023 (expected)",
+        "description": "Taken accounting fundamentals, leadership & management, Java, IS fundamentals, and database design"
+      },
+      {
+        "school": "The Hong Kong Polytechnic University",
+        "degree": "BEng (HONS) Electronic and Information Engineering",
+        "graduated": "Sep 2019 – Jun 2021 (transferred)",
+        "description": "Taken engineering calculus, probability & statistics, linear algebra, physics, and information technology, as well as circuit analysis, basic electronics, logic design, industrial training, and basic computer programming in C++ and Python"
+      }
+    ],
+    "work": [
+      {
+        "company": "ShopBack TW",
+        "title": "Quality Assurance Intern",
+        "years": "Aug 2021 - Jan 2022",
+        "description": "Tested functionalities for the ShopBack application including search, membership authentication, and user interaction functions, and gave suggestions on UX design. Reported bugs and their causes through Jira. Redesigned the end-to-end testing script for release candidates of the ShopBack application."
+      }
+    ],
+    "skills": [
+      {
+        "category": "Programming Languages",
+        "items": "Java, Python, Oracle SQL, C++"
+      },
+      {
+        "category": "Tools & Frameworks",
+        "items": "ReactJS, MYOB, Figma, AutoCAD, 3ds MAX"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "level": "97%"
+      },
+      {
+        "name": "Mandarin",
+        "level": "97%"
+      },
+      {
+        "name": "Taiwanese",
+        "level": "60%"
+      },
+      {
+        "name": "German",
+        "level": "20%"
+      },
+      {
+        "name": "Spanish",
+        "level": "20%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Whatsapp Clone (React JS)",
+        "category": "",
+        "image": "whatsapp-clone.png",
+        "url": "https://github.com/literallytina/whatsapp-clone"
+      },
+      {
+        "title": "Todo List (React JS)",
+        "category": "",
+        "image": "todo-list.png",
+        "url": "https://github.com/literallytina/todo-app"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Jorge Fouto"
+      },
+      {
+        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Adam Curtis"
+      }
+    ]
+  }
+}
